@@ -5,4 +5,4 @@ tags = ["index"]
 title = "Posts"
 
 +++
-post 1
+post 1![](/uploads/pexels-fauxels-3184465.jpg)
