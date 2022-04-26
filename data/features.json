@@ -9,10 +9,10 @@
     "description": "Roles filled when you need most",
     "icon": "icon-lightbulb_outline"
   },
-#  {
-#    "title": "Github",
-#    "description": "Please fork the Github repository and contribute to this theme!",
-#    "icon": "icon-github",
-#    "link": "https://github.com/opera7133/tella"
-#  }
+  {
+    "title": "Github",
+    "description": "Please fork the Github repository and contribute to this theme!",
+    "icon": "icon-github",
+    "link": "https://github.com/opera7133/tella"
+  }
 ]
